@@ -1,0 +1,81 @@
+*{
+    margin: 0%;
+}
+.red{
+    background-color: blueviolet;
+    overflow: hidden;
+
+}
+.p_1{
+    font-size: 200%;
+    color: black;
+    overflow: hidden;
+}
+.head{
+width: 100%;
+height: 50px;
+background-color: sandybrown;
+margin: 10px;
+
+text-align: center;
+overflow: hidden;
+
+}
+.menu{
+width: 20%;
+height: 500px;
+text-align: center;
+float: left;
+background-color: yellow;
+overflow: hidden;
+
+}
+.menu_1{
+font-size: 200%;
+color: black;
+
+
+}
+.content{
+
+ width: 60%;
+height: 500px;
+text-align: center;
+float: left;
+background-color:green;
+
+
+
+}
+.content_1{
+    font-size: 200%;
+    color: white;
+}
+.recent{
+    width: 20%;
+    height: 500px;
+    text-align: center;
+    float: left;
+    background-color: blue;
+
+    overflow: hidden;
+}
+.recent_1{
+    font-size: 200%;
+    color: white;
+    overflow: hidden;
+ 
+
+}
+.fot{
+
+
+}
+.fot_1{
+text-align: center;
+font-size: 200%;
+background-color: red;
+color: cyan;
+ 
+}
+
